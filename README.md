@@ -1,6 +1,5 @@
 # GameProject
-- clone this zip or install it
-git clone
+- Go into Zip File and Press download
 
 - Presentation Video Link
             8mins video
